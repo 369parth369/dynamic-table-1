@@ -30,8 +30,7 @@ This project is an **interactive and dynamic table UI** built using **Next.js** 
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/dynamic-table.git
-   cd dynamic-table
+   git clone https://github.com/369parth369/dynamic-table-1.git
    ```
 
 2. **Install Dependencies**
@@ -49,9 +48,6 @@ http://localhost:3000
 - Drag rows to reorder them.
 - Drag columns to reorder them.
 
-## Future Enhancements
-- **Persist table state** using local storage or a database.
-- **Export table data** as CSV or JSON.
-- **Responsive design** improvements for mobile.
+
 
 
