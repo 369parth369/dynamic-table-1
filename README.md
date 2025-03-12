@@ -19,7 +19,11 @@ This project is an **interactive and dynamic table UI** built using **Next.js** 
 4. **Drag and Drop Support**
    - Users can reorder rows via drag and drop.
    - Users can reorder columns via drag and drop.
-
+  
+5. **Store Table Data**
+   - Table data is stored in local storage so that the table structure and data persist even after a page refresh.
+  
+     
 ## Technologies Used
 - [Next.js](https://nextjs.org/) – React framework for server-side rendering and static site generation.
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for styling.
